@@ -25,6 +25,7 @@ function CheckScore(score){
   } 
 }
 
+console.log("Hi my name is Vighnesh Dhuri ..... let see how much you know me?")
 
 var myInfo={birthdayMonth:"may",favourate_colour:"blue",age:'22'}
 for (var key in myInfo){
